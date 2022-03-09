@@ -1,0 +1,56 @@
+1.Course Overview
+2.Getting started with the Vue.js CLI
+
+3.Creating Vue.js Componenets and using Template Syntax
+Creating Components
+Using Binding to Display Data and Handle Events
+Conditionally Displaying ELements with v-if and v-show
+Repeating Elements with v-for
+Styling Components
+Working with Component Lifecycle Hooks
+REducing Duplication with Mixins
+Composition and REactivity APIs
+
+4.Enabling Inter-component Communication
+Using Props to Share with Child Components
+Validating Component Props
+Passing Data to Parent Components with Events
+Injecting Content into a Child Component with Slots
+using Teleport to Render Content
+Using Provide/ Inject to Pass Data
+
+5. Routing from Page to Page
+Adding routing to our app
+Linking to routed pages
+Styling links based on the active route
+Navigation form code
+Working with route params
+Using nested routes
+Using named views
+Enabling HTML5 History Mode
+Preventing navigation with navigation guards
+
+6. Managing State and Server Communication with Vuex
+Creating a Vuex store
+Changing with mutations
+Retrieving data from the state
+Using getters to retrun calculated data form the state
+Using actions to work asynchronous data
+using modules to organize a store
+Using built-in helpers to work with the store
+
+7. Creating Custom Directives and Filters
+Creating and using custom directives
+Passing data to directives
+Declaring directives locally vs. globally
+Creating and using filters
+Declaring filters locally vs. globally
+
+8. Deploying Vue Applications to Production
+Creating a basic Vue.js build with the CLI
+Using environment vars and build modes
+Deploying to a production web server
+Handling deep linking
+Inspecting the built-in webpack config
+Customizing the webpack config
+
